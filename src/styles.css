@@ -4,6 +4,8 @@
 @import 'tailwindcss';
 @plugin 'tailwindcss-animate';
 
+@source "../node_modules/dorvak-ui";
+
 @tailwind utilities;
 
 :root {
