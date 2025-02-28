@@ -12,7 +12,6 @@ import {LucideAngularModule} from 'lucide-angular';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Dorvak-UI-Template';
 
   openUrl(url: string) {
     window.open(url, '_blank');
